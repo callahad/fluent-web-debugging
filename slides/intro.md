@@ -1,7 +1,3 @@
-# Hello, world
-
----
-
 # Debugging the Mobile Web
 
 ***
@@ -10,7 +6,45 @@ Wowowowowowowowow.
 
 ---
 
+# Quick Introductions
+
+***
+
+# Dan Callahan
+
+* Bullet
+* Points
+* Here
+
+***
+
+# Mike Taylor
+
+* Web Compatibility Engineer, Mozilla
+* Works from Austin, TX.
+* [http://crappytld.club](https://miketaylr.com)
+
+***
+
+---
+
+# Outline:
+
+0. Getting set up
+1. Debugging JavaScript Stuff
+2. Debugging CSS Stuff
+3. Break!
+4. Debugging Performance Stuff
+5. Debugging Network Stuff
+6. Freestyle debugging session (time willing)
+
+---
+
 # Let's get set up for Remote Debugging.
+
+***
+
+## Step 0. Connect your phone to your computer over USB.
 
 ***
 
@@ -113,6 +147,40 @@ Using at least v36 or up
 
 # Chrome
 
+Using at least v32 or up and with Android 4.0+.
+
+***
+
+### 1. Open chrome://inspect
+
+Make sure "Discover USB Devices" is checked.
+
+<img data-src="slides/images/chrome-inspect.png">
+
+***
+
+# BAM
+
+<img data-src="slides/images/chrome-connected.png">
+
 ***
 
 # Safari
+
+Using Safari 6 and up and at least iOS 6.
+
+***
+
+### 1. Make sure Safari Mobile is running
+
+***
+
+### Select Develop > Device Name > Tab
+
+<img data-src="slides/images/safari-develop.png">
+
+***
+
+### BAM
+
+<img data-src="slides/images/safari-connected.png">
