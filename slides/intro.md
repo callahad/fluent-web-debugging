@@ -53,3 +53,66 @@ On your Android device, select Settings > Developer options.
 ---
 
 # Now let's connect to our devices.
+
+***
+
+# Firefox
+# ([Dev Edition™](https://www.mozilla.org/en-US/firefox/developer/))
+
+Using at least v36 or up
+
+(lower versions require manually adb wrangling)
+
+((ok, great))
+
+***
+
+### 1. Enable remote debugging on ur phone
+
+***
+
+### Menu > Settings
+
+<img data-src="slides/images/firefox-mobile-settings.png">
+
+***
+
+### Enable Remote Debugging
+
+<img class="stretch" data-src="slides/images/firefox-mobile-enablerd.png">
+
+***
+
+# Bust open WebIDE
+
+***
+
+### Tools > Web Developer > WebIDE
+
+<img data-src="slides/images/webide-runtime.png">
+
+***
+
+### Accept the incoming connection
+
+<img data-src="slides/images/firefox-incoming-connection.png">
+
+***
+
+### Select a tab to connect to
+
+<img data-src="slides/images/webide-openapp.png">
+
+***
+
+# BAM
+
+<img data-src="slides/images/webide-connected.png">
+
+***
+
+# Chrome
+
+***
+
+# Safari
