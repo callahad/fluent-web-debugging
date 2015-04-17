@@ -25,25 +25,57 @@ for fun (lol) and profit (probably not)
 
 ***
 
+***
 
-Editing live CSS
-
-* box model
-* fonts
-* regular stuff
+<!-- .slide: data-background="slides/images/sf-sources-css.png" -->
+<!-- safari style editor -->
 
 ***
 
-* Import CSS into page (debug.css)
+<!-- .slide: data-background="slides/images/sf-element-css.png" -->
+<!-- safari element inspector -->
 
 ***
 
-* CSS animations
+# The Basics
+
+
+* Editing live CSS
+* Box model
+* Fonts
+* Colors
+* Transitions
+* Animations
+
+(http://shinydemos.com)
 
 ***
 
-* Working with Responsive Layouts
+# Working with Responsive Layouts
+
+* Firefox Responsive Design Mode
+* Chrome Device Mode
 
 ***
 
-* Debugging some real sites (ebay.com (image layout problem), espn.com (scrolling problems));
+# OK, let's dive into some real sites with real bugs
+
+***
+
+### m.twitter.com
+
+<!-- http://hallvord.com/temp/moz/cssfixme.htm -->
+
+***
+
+### espn.com
+
+***
+
+### ebay.com
+
+***
+
+### yoursite?
+
+***
