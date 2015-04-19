@@ -62,20 +62,20 @@ for fun (lol) and profit (probably not)
 
 ***
 
-### m.twitter.com
+### http://m.twitter.com
 
 <!-- http://hallvord.com/temp/moz/cssfixme.htm -->
 
 ***
 
-### espn.com
+### http://espn.com
 
 ***
 
-### ebay.com
+### http://ebay.com
 
 ***
 
-### yoursite?
+### http://shinydemos.com/border-salon/
 
 ***
