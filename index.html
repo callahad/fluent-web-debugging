@@ -15,6 +15,13 @@
 
         <link rel="stylesheet" href="ext/reveal.js/css/reveal.css">
         <link rel="stylesheet" href="ext/reveal.js/css/theme/black.css" id="theme">
+        <style>
+            .reveal section img {
+                background: none;
+                border: none;
+                box-shadow: none;
+            }
+        </style>
 
         <!-- Code syntax highlighting -->
         <link rel="stylesheet" href="ext/reveal.js/lib/css/zenburn.css">
@@ -67,7 +74,7 @@
                     { src: 'ext/reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
                     { src: 'ext/reveal.js/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
                     { src: 'ext/reveal.js/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-                    { src: 'ext/reveal.js/plugin/highlight/highlight.js', async: true, condition: function() { return !!document.querySelector( 'pre code' ); }, callback: function() { hljs.initHighlightingOnLoad(); } },
+                    { src: 'ext/reveal.js/plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
                 ]
             });
         </script>
