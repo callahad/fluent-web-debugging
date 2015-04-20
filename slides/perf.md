@@ -129,10 +129,7 @@ Note: All about reducing page weight
 3. Paint
 4. Composite
 
-Reflows and Paints are most expensive.
-
-Different properties trigger different work when mutated.
-See http://csstriggers.com/.
+See http://csstriggers.com/
 
 ***
 
