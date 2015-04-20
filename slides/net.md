@@ -20,6 +20,7 @@
 
 * [Charles proxy](http://www.charlesproxy.com/)
 * [Fiddler](http://www.telerik.com/fiddler)
+* [mitmproxy](http://mitmproxy.org/)
 
 ***
 
