@@ -12,9 +12,10 @@ Wowowowowowowowow.
 
 # Dan Callahan
 
-* Bullet
-* Points
-* Here
+* Developer / Advocate, Mozilla
+* Works from Minneapolis, MN.
+* @callahad
+* [http://dancallahan.info](http://dancallahan.info)
 
 ***
 

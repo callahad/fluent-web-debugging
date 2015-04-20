@@ -2,4 +2,4 @@
 
 @miketaylr | miket@mozilla.com
 
-@callahad
+@callahad | dcallahan@mozilla.com
