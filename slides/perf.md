@@ -34,6 +34,8 @@ http://developer.telerik.com/featured/why-ios-8s-wkwebview-is-a-big-deal-for-hyb
 ***
 
 > You __are not__ exempt from mobile testing.
+>
+> Or cross-browser testing.
 
 Note: More headroom on desktop leads to more headroom on mobile. Relative costs of operations are similar; just worried about scaling factor.
 
@@ -101,6 +103,16 @@ Note: Script tag at end of body, cache headers, etc.
 3. Combining images into sprites
 
 Thanks, SPDY and HTTP/2!
+
+***
+
+### Still Good
+
+1. Minify + Gzip
+2. Compress / Remove Images
+3. Serve appropriate images
+
+Note: All about reducing page weight
 
 ---
 
@@ -216,9 +228,5 @@ Demos!
 ---
 
 ## Memory Performance
-
-Heaps of leaks
-
-***
 
 Let's just do some demos here, too.
