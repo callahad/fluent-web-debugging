@@ -223,6 +223,10 @@ _From Wilson Page's [blog](http://wilsonpage.co.uk/preventing-layout-thrashing/)
 
 ### Animations
 
+[YouMightNotNeedjQuery.com](http://youmightnotneedjquery.com/)
+
+***
+
 Demos!
 
 ---
