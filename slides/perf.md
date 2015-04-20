@@ -119,6 +119,9 @@ Thanks, SPDY and HTTP/2!
 
 Reflows and Paints are most expensive.
 
+Different properties trigger different work when mutated.
+See http://csstriggers.com/.
+
 ***
 
 ![](slides/images/compositing-aerotwist.jpg)
