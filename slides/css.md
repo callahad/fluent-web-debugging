@@ -77,5 +77,3 @@ for fun (lol) and profit (probably not)
 ***
 
 ### http://shinydemos.com/border-salon/
-
-***

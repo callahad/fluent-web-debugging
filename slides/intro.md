@@ -25,8 +25,6 @@ Wowowowowowowowow.
 * Works from Austin, TX.
 * [http://crappytld.club](https://miketaylr.com)
 
-***
-
 ---
 
 # Outline:
